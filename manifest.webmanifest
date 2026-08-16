@@ -1,0 +1,15 @@
+{
+  "name": "BOXGAME · 地下世界冒险",
+  "short_name": "BOXGAME",
+  "description": "黑白像素风自动战斗与宝箱冒险游戏",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
